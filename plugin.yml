@@ -1,0 +1,5 @@
+main: org.pixeltime.minez.gather.Gather
+name: Gather
+author: Feier
+version: 1.2
+website: https://github.com/HealPot
